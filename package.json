@@ -1,0 +1,23 @@
+{
+  "name": "wirebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishana18kumar/Wirebase-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishana18kumar/Wirebase-/issues"
+  },
+  "homepage": "https://github.com/krishana18kumar/Wirebase-#readme",
+  "dependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}
